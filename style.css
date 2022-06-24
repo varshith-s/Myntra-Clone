@@ -1,0 +1,85 @@
+.head{
+    color: brown;
+    text-align: center;
+    margin:0px;
+    padding:0px;
+    font-size:xx-large;
+}
+.img{
+    display:flex;
+    justify-content: left;
+   margin-bottom: 54px;
+   margin-left:42px;
+   float:left;
+   border:13px;
+   max-width: 100%;
+   height:auto;
+
+}
+.navs {
+    display: flex;
+    flex-direction: row;
+    margin-top: 12px;
+    margin-right:6px;
+    margin-bottom: 0px;
+}
+li{
+    margin:3px;
+    padding:2px;
+    
+}
+ul{
+    list-style-type: none;
+}
+.btn{
+    background-color:aquamarine;
+    color:blue;
+    margin:15px;
+    height:37px;
+    padding:13px;
+    width:auto;
+}
+.container{
+    display:flex;
+    flex-direction: row;
+    flex-wrap:wrap;
+    align-items: flex-start;
+    -ms-flex-align: baseline;
+    margin:0px;
+    padding: 0px;
+    
+}
+.search{
+    margin-top:0px;
+    width:304px;
+    height:8vh;
+    border-radius: 4px;
+    text-decoration: aqua;
+    color:blue;
+    margin-left:444px;
+    margin-bottom:6.9px;
+}
+.page{
+    margin-left:51px;
+    margin-right:7.5px;
+    margin-top:7.5px;
+    margin-bottom:7.5px;
+
+}
+.icon {
+    display: flex;
+    flex-direction: row;
+    margin-top: 0px;
+    margin-left:0px;
+    margin-bottom:0px;
+}
+.icon li{
+    display: flex;
+    flex-direction: row-reverse;
+    margin-left:18px;
+    padding:8px;
+}
+.nav-container{
+    margin:0px;
+    padding:0px;
+}
